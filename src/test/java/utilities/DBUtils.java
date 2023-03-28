@@ -21,7 +21,7 @@ when we have only one result
 
 
 
-public class DButils {
+public class DBUtils {
 
     private static Connection connection;
     private static Statement statement;
